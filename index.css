@@ -116,10 +116,10 @@ nav ul li a:hover{
 }
 .homePageContent{
     display: flex;
+    justify-content: center;
     align-items: center;
-    max-width: 42rem;
-    margin-top: 3rem;
-    margin-bottom: 3rem;
+    height: 90vh;
+    width: 100vw;
 }
 .btn{
     margin-top: 1rem;
